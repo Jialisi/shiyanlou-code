@@ -10,4 +10,4 @@ while year <= period:
     amount = value
     year = year + 1
 #str.format()
-#Year {} Rs. {:.2f}".format(year, value)
+#Year {} Rs. {:.2f}".format(year, value) 字符串格式化
